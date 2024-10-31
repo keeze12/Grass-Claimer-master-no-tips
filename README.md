@@ -7,8 +7,10 @@ Grass-Claimer-master-no-tip
 
 зайти в командную строку указать путь до файла с кодом вписать pip install -r requirements.txt
 
+#data
 config
 thread= 1 увеличьте потоки если медленно 
 DESTINATION_ADDRESS = 'поменяйте на свой адрес solana'
 
+в keys.txt укажите свои приватные ключи 
 main.py для запуска
